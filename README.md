@@ -30,3 +30,16 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - PostgreSQL 9.x
 - Stripe
 
+## Project features and snippets 
+
+List of products page
+![Image description](/docs/List-of-products-ss.png)
+
+Product detail page
+![Image description](/docs/Product-detail.png)
+
+My cart page
+![Image description](/docs/My-cart.png)
+
+Admin page
+![Image description](/docs/Admin-page.png)
